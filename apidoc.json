@@ -1,0 +1,10 @@
+{
+    "name": "Client",
+    "version": "0.1.0",
+    "description": "Controle de clientes",
+    "apidoc": {
+      "title": "Clientes"
+      
+    },
+    "sampleUrl": null
+  }
